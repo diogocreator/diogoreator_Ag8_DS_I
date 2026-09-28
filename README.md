@@ -38,8 +38,8 @@ Projeto desenvolvido como parte do módulo de Algoritmos e Estruturas de Repeti�
 ## 🚀 Como Executar o Projeto
 
 1. Certifique-se de ter o [Python](https://www.python.org/) instalado.
-2. Clone este repositório:
-
+2. Cole este repositório:
+```python
 # =========================================
 # EMPRESA DE MARKETING: TUDOWEB
 # Projeto: Pesquisa de Satisfação no Atendimento (Com contagem da opção BOM)
