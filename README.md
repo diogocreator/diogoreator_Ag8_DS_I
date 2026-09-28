@@ -93,6 +93,6 @@ print("             RESULTADO DA PESQUISA")
 print("=" * 50)
 print(f"Total de entrevistados: {total_entrevistados}")
 print(f"a) Respostas 'EXCELENTE': {qtd_excelente}")
-print(f"b) Respostas 'BOM':       {qtd_bom}")        # Linha exibindo a contagem de BOM
+print(f"b) Respostas 'BOM':       {qtd_bom}")        
 print(f"c) Respostas 'RUIM':      {qtd_ruim}")
 print("=" * 50)
